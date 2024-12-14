@@ -79,7 +79,7 @@ id,attack_cat
 77,Backdoor
 78,Backdoor
 79,Normal
-80,Fuzzers
+80,Normal
 81,Normal
 82,Fuzzers
 83,Backdoor
@@ -110,7 +110,7 @@ id,attack_cat
 108,Generic
 109,Fuzzers
 110,Exploits
-111,Backdoor
+111,Reconnaissance
 112,Normal
 113,Exploits
 114,Generic
@@ -134,7 +134,7 @@ id,attack_cat
 132,Generic
 133,Exploits
 134,Normal
-135,Normal
+135,Exploits
 136,Normal
 137,Exploits
 138,Normal
@@ -238,7 +238,7 @@ id,attack_cat
 236,Backdoor
 237,Exploits
 238,Generic
-239,Fuzzers
+239,Normal
 240,Generic
 241,Reconnaissance
 242,Backdoor
@@ -272,7 +272,7 @@ id,attack_cat
 270,Exploits
 271,Backdoor
 272,Exploits
-273,Reconnaissance
+273,Fuzzers
 274,Generic
 275,Normal
 276,Fuzzers
@@ -441,7 +441,7 @@ id,attack_cat
 439,Generic
 440,Generic
 441,Reconnaissance
-442,Backdoor
+442,Normal
 443,Normal
 444,Reconnaissance
 445,Normal
@@ -482,7 +482,7 @@ id,attack_cat
 480,Generic
 481,Analysis
 482,Backdoor
-483,Fuzzers
+483,Normal
 484,Fuzzers
 485,Normal
 486,Normal
@@ -572,7 +572,7 @@ id,attack_cat
 570,Exploits
 571,Exploits
 572,Generic
-573,Analysis
+573,Exploits
 574,Fuzzers
 575,Analysis
 576,Normal
@@ -611,7 +611,7 @@ id,attack_cat
 609,Fuzzers
 610,Normal
 611,Backdoor
-612,Fuzzers
+612,Exploits
 613,Normal
 614,Reconnaissance
 615,Normal
@@ -705,7 +705,7 @@ id,attack_cat
 703,Normal
 704,Generic
 705,Reconnaissance
-706,Fuzzers
+706,Normal
 707,Normal
 708,Normal
 709,Exploits
@@ -718,7 +718,7 @@ id,attack_cat
 716,Normal
 717,Normal
 718,Normal
-719,Fuzzers
+719,Normal
 720,Generic
 721,Backdoor
 722,Generic
@@ -837,7 +837,7 @@ id,attack_cat
 835,Fuzzers
 836,Generic
 837,Exploits
-838,Fuzzers
+838,Normal
 839,Fuzzers
 840,Fuzzers
 841,Generic
@@ -961,7 +961,7 @@ id,attack_cat
 959,Generic
 960,DoS
 961,Normal
-962,Shellcode
+962,Fuzzers
 963,Normal
 964,Normal
 965,Normal
@@ -1009,7 +1009,7 @@ id,attack_cat
 1007,Exploits
 1008,Backdoor
 1009,Backdoor
-1010,Reconnaissance
+1010,Normal
 1011,Generic
 1012,Normal
 1013,Backdoor
@@ -1048,7 +1048,7 @@ id,attack_cat
 1046,Normal
 1047,Normal
 1048,Generic
-1049,Fuzzers
+1049,Exploits
 1050,Generic
 1051,Shellcode
 1052,Shellcode
@@ -1085,7 +1085,7 @@ id,attack_cat
 1083,Fuzzers
 1084,Normal
 1085,DoS
-1086,Generic
+1086,Fuzzers
 1087,Reconnaissance
 1088,Normal
 1089,Normal
@@ -1172,8 +1172,8 @@ id,attack_cat
 1170,Normal
 1171,Fuzzers
 1172,Generic
-1173,Fuzzers
-1174,DoS
+1173,Exploits
+1174,Exploits
 1175,Generic
 1176,Normal
 1177,Normal
@@ -1214,10 +1214,10 @@ id,attack_cat
 1212,Exploits
 1213,Fuzzers
 1214,Normal
-1215,Fuzzers
+1215,Normal
 1216,Generic
 1217,Generic
-1218,Fuzzers
+1218,Normal
 1219,Normal
 1220,Fuzzers
 1221,Reconnaissance
@@ -1270,7 +1270,7 @@ id,attack_cat
 1268,Fuzzers
 1269,Generic
 1270,Normal
-1271,Backdoor
+1271,Exploits
 1272,Normal
 1273,Generic
 1274,Normal
@@ -1300,7 +1300,7 @@ id,attack_cat
 1298,Generic
 1299,Backdoor
 1300,Worms
-1301,DoS
+1301,Exploits
 1302,Generic
 1303,Normal
 1304,Exploits
@@ -1350,7 +1350,7 @@ id,attack_cat
 1348,Generic
 1349,Generic
 1350,Generic
-1351,Fuzzers
+1351,Normal
 1352,Exploits
 1353,Fuzzers
 1354,Exploits
@@ -1394,7 +1394,7 @@ id,attack_cat
 1392,Backdoor
 1393,Generic
 1394,Normal
-1395,Exploits
+1395,Normal
 1396,Normal
 1397,Fuzzers
 1398,Normal
@@ -1428,7 +1428,7 @@ id,attack_cat
 1426,DoS
 1427,Normal
 1428,Analysis
-1429,Fuzzers
+1429,Normal
 1430,Generic
 1431,Generic
 1432,Fuzzers
@@ -1506,7 +1506,7 @@ id,attack_cat
 1504,Exploits
 1505,Backdoor
 1506,Generic
-1507,Fuzzers
+1507,Exploits
 1508,Fuzzers
 1509,Normal
 1510,DoS
@@ -1580,7 +1580,7 @@ id,attack_cat
 1578,Normal
 1579,Fuzzers
 1580,Normal
-1581,Backdoor
+1581,Exploits
 1582,Normal
 1583,Normal
 1584,Fuzzers
@@ -1601,7 +1601,7 @@ id,attack_cat
 1599,Normal
 1600,Normal
 1601,Fuzzers
-1602,Worms
+1602,Exploits
 1603,Normal
 1604,Normal
 1605,Exploits
@@ -1680,7 +1680,7 @@ id,attack_cat
 1678,Generic
 1679,Generic
 1680,Generic
-1681,DoS
+1681,Normal
 1682,Normal
 1683,Generic
 1684,Normal
@@ -1988,7 +1988,7 @@ id,attack_cat
 1986,Exploits
 1987,Generic
 1988,Exploits
-1989,Fuzzers
+1989,Normal
 1990,Normal
 1991,Normal
 1992,Fuzzers
@@ -2066,7 +2066,7 @@ id,attack_cat
 2064,Normal
 2065,Normal
 2066,Exploits
-2067,Fuzzers
+2067,Normal
 2068,Fuzzers
 2069,Shellcode
 2070,Generic
@@ -2204,7 +2204,7 @@ id,attack_cat
 2202,Normal
 2203,Normal
 2204,Fuzzers
-2205,Reconnaissance
+2205,Exploits
 2206,Generic
 2207,Exploits
 2208,Exploits
@@ -2245,7 +2245,7 @@ id,attack_cat
 2243,Generic
 2244,Normal
 2245,Backdoor
-2246,Fuzzers
+2246,Normal
 2247,Backdoor
 2248,Exploits
 2249,Reconnaissance
@@ -2348,7 +2348,7 @@ id,attack_cat
 2346,Generic
 2347,Shellcode
 2348,Shellcode
-2349,Fuzzers
+2349,Normal
 2350,Exploits
 2351,Normal
 2352,Backdoor
@@ -2383,7 +2383,7 @@ id,attack_cat
 2381,Exploits
 2382,Normal
 2383,Backdoor
-2384,Fuzzers
+2384,Normal
 2385,Fuzzers
 2386,Generic
 2387,Fuzzers
@@ -2483,7 +2483,7 @@ id,attack_cat
 2481,Normal
 2482,Generic
 2483,Generic
-2484,Fuzzers
+2484,Normal
 2485,Normal
 2486,Normal
 2487,Normal
@@ -2510,7 +2510,7 @@ id,attack_cat
 2508,Generic
 2509,Normal
 2510,Normal
-2511,Shellcode
+2511,Normal
 2512,Backdoor
 2513,Generic
 2514,Fuzzers
@@ -2529,11 +2529,11 @@ id,attack_cat
 2527,Generic
 2528,DoS
 2529,Backdoor
-2530,DoS
+2530,Generic
 2531,Normal
 2532,Exploits
 2533,Normal
-2534,Fuzzers
+2534,Normal
 2535,Exploits
 2536,Exploits
 2537,Fuzzers
@@ -2556,7 +2556,7 @@ id,attack_cat
 2554,Fuzzers
 2555,DoS
 2556,Generic
-2557,Backdoor
+2557,Generic
 2558,Normal
 2559,Normal
 2560,Generic
@@ -2564,7 +2564,7 @@ id,attack_cat
 2562,Normal
 2563,Normal
 2564,Exploits
-2565,Reconnaissance
+2565,Normal
 2566,Normal
 2567,Generic
 2568,Normal
@@ -2708,7 +2708,7 @@ id,attack_cat
 2706,Normal
 2707,Exploits
 2708,Backdoor
-2709,Fuzzers
+2709,Exploits
 2710,Generic
 2711,Normal
 2712,Exploits
@@ -2898,7 +2898,7 @@ id,attack_cat
 2896,Generic
 2897,Normal
 2898,Generic
-2899,Fuzzers
+2899,Normal
 2900,Normal
 2901,Generic
 2902,Generic
@@ -2963,7 +2963,7 @@ id,attack_cat
 2961,Generic
 2962,Fuzzers
 2963,Generic
-2964,Fuzzers
+2964,Normal
 2965,Backdoor
 2966,Normal
 2967,Fuzzers
@@ -3073,7 +3073,7 @@ id,attack_cat
 3071,Backdoor
 3072,Backdoor
 3073,Generic
-3074,Fuzzers
+3074,Exploits
 3075,Normal
 3076,Normal
 3077,Fuzzers
@@ -3123,7 +3123,7 @@ id,attack_cat
 3121,Fuzzers
 3122,Generic
 3123,Exploits
-3124,Fuzzers
+3124,Exploits
 3125,Normal
 3126,Backdoor
 3127,Backdoor
@@ -3155,13 +3155,13 @@ id,attack_cat
 3153,Fuzzers
 3154,Fuzzers
 3155,Generic
-3156,Normal
+3156,Exploits
 3157,Generic
 3158,Generic
 3159,Backdoor
 3160,DoS
 3161,Normal
-3162,Generic
+3162,Fuzzers
 3163,Normal
 3164,Generic
 3165,Fuzzers
@@ -3213,7 +3213,7 @@ id,attack_cat
 3211,Normal
 3212,Normal
 3213,Normal
-3214,Reconnaissance
+3214,Fuzzers
 3215,DoS
 3216,Backdoor
 3217,Exploits
@@ -3450,7 +3450,7 @@ id,attack_cat
 3448,Generic
 3449,Normal
 3450,Backdoor
-3451,DoS
+3451,Fuzzers
 3452,Normal
 3453,Exploits
 3454,Normal
@@ -3479,7 +3479,7 @@ id,attack_cat
 3477,Analysis
 3478,Backdoor
 3479,Generic
-3480,Fuzzers
+3480,Normal
 3481,DoS
 3482,Normal
 3483,Backdoor
@@ -3615,7 +3615,7 @@ id,attack_cat
 3613,Generic
 3614,Normal
 3615,Normal
-3616,Backdoor
+3616,Fuzzers
 3617,Normal
 3618,DoS
 3619,Generic
@@ -3703,10 +3703,10 @@ id,attack_cat
 3701,Generic
 3702,Backdoor
 3703,Backdoor
-3704,Normal
+3704,Exploits
 3705,Backdoor
 3706,Analysis
-3707,Exploits
+3707,Normal
 3708,Normal
 3709,Generic
 3710,Generic
@@ -3751,7 +3751,7 @@ id,attack_cat
 3749,Normal
 3750,Normal
 3751,Normal
-3752,DoS
+3752,Normal
 3753,Exploits
 3754,Backdoor
 3755,Generic
@@ -3868,7 +3868,7 @@ id,attack_cat
 3866,Exploits
 3867,Normal
 3868,Generic
-3869,Fuzzers
+3869,Exploits
 3870,Fuzzers
 3871,Generic
 3872,Fuzzers
@@ -3981,7 +3981,7 @@ id,attack_cat
 3979,Fuzzers
 3980,Generic
 3981,Normal
-3982,Fuzzers
+3982,Exploits
 3983,Generic
 3984,Normal
 3985,Fuzzers
@@ -4014,7 +4014,7 @@ id,attack_cat
 4012,Exploits
 4013,Fuzzers
 4014,Generic
-4015,DoS
+4015,Exploits
 4016,Generic
 4017,Backdoor
 4018,Backdoor
@@ -4066,7 +4066,7 @@ id,attack_cat
 4064,Normal
 4065,Normal
 4066,Fuzzers
-4067,Reconnaissance
+4067,Exploits
 4068,Exploits
 4069,Generic
 4070,Generic
@@ -4099,7 +4099,7 @@ id,attack_cat
 4097,Generic
 4098,Normal
 4099,Fuzzers
-4100,Fuzzers
+4100,Normal
 4101,Exploits
 4102,Generic
 4103,Normal
@@ -4321,9 +4321,9 @@ id,attack_cat
 4319,Normal
 4320,Backdoor
 4321,Fuzzers
-4322,Analysis
+4322,Normal
 4323,Fuzzers
-4324,Reconnaissance
+4324,Normal
 4325,Normal
 4326,Normal
 4327,Backdoor
@@ -4354,7 +4354,7 @@ id,attack_cat
 4352,Backdoor
 4353,DoS
 4354,Fuzzers
-4355,Worms
+4355,Exploits
 4356,Fuzzers
 4357,Normal
 4358,Backdoor
@@ -4414,7 +4414,7 @@ id,attack_cat
 4412,Fuzzers
 4413,Generic
 4414,Normal
-4415,Fuzzers
+4415,Normal
 4416,Generic
 4417,Normal
 4418,Fuzzers
@@ -4434,7 +4434,7 @@ id,attack_cat
 4432,Generic
 4433,Fuzzers
 4434,Fuzzers
-4435,Backdoor
+4435,Reconnaissance
 4436,Generic
 4437,Reconnaissance
 4438,Normal
@@ -4455,7 +4455,7 @@ id,attack_cat
 4453,Exploits
 4454,Fuzzers
 4455,Exploits
-4456,Exploits
+4456,Normal
 4457,Generic
 4458,Normal
 4459,Normal
@@ -4559,7 +4559,7 @@ id,attack_cat
 4557,Normal
 4558,Normal
 4559,DoS
-4560,Analysis
+4560,Normal
 4561,Backdoor
 4562,Normal
 4563,Exploits
@@ -4621,7 +4621,7 @@ id,attack_cat
 4619,Fuzzers
 4620,Generic
 4621,Normal
-4622,Fuzzers
+4622,Normal
 4623,Backdoor
 4624,Fuzzers
 4625,Normal
@@ -4636,13 +4636,13 @@ id,attack_cat
 4634,Normal
 4635,Exploits
 4636,Normal
-4637,Reconnaissance
+4637,Exploits
 4638,Normal
 4639,Generic
 4640,Fuzzers
 4641,Generic
 4642,Normal
-4643,Fuzzers
+4643,Normal
 4644,Generic
 4645,Backdoor
 4646,Generic
@@ -4706,7 +4706,7 @@ id,attack_cat
 4704,Generic
 4705,Normal
 4706,Normal
-4707,Backdoor
+4707,Fuzzers
 4708,Fuzzers
 4709,Normal
 4710,Backdoor
@@ -4812,7 +4812,7 @@ id,attack_cat
 4810,Generic
 4811,Normal
 4812,DoS
-4813,Fuzzers
+4813,Normal
 4814,Fuzzers
 4815,Normal
 4816,Normal
@@ -4923,7 +4923,7 @@ id,attack_cat
 4921,Generic
 4922,Generic
 4923,Normal
-4924,Fuzzers
+4924,Normal
 4925,Reconnaissance
 4926,Generic
 4927,Normal
@@ -5066,7 +5066,7 @@ id,attack_cat
 5064,Generic
 5065,Generic
 5066,Exploits
-5067,Fuzzers
+5067,Normal
 5068,Exploits
 5069,Normal
 5070,Generic
@@ -5313,7 +5313,7 @@ id,attack_cat
 5311,Generic
 5312,Generic
 5313,Fuzzers
-5314,Backdoor
+5314,Fuzzers
 5315,DoS
 5316,Reconnaissance
 5317,DoS
@@ -5387,9 +5387,9 @@ id,attack_cat
 5385,Fuzzers
 5386,Normal
 5387,Normal
-5388,Fuzzers
+5388,Normal
 5389,Fuzzers
-5390,Exploits
+5390,Normal
 5391,Generic
 5392,Fuzzers
 5393,Fuzzers
@@ -5465,7 +5465,7 @@ id,attack_cat
 5463,Generic
 5464,Normal
 5465,Analysis
-5466,Generic
+5466,Fuzzers
 5467,Normal
 5468,Generic
 5469,Normal
@@ -5522,12 +5522,12 @@ id,attack_cat
 5520,Normal
 5521,Analysis
 5522,Fuzzers
-5523,Fuzzers
+5523,Normal
 5524,Generic
 5525,Fuzzers
 5526,Generic
 5527,Normal
-5528,Reconnaissance
+5528,Exploits
 5529,Normal
 5530,Normal
 5531,Generic
@@ -5688,7 +5688,7 @@ id,attack_cat
 5686,Exploits
 5687,Generic
 5688,Fuzzers
-5689,Backdoor
+5689,Reconnaissance
 5690,DoS
 5691,Normal
 5692,Reconnaissance
@@ -5978,7 +5978,7 @@ id,attack_cat
 5976,Generic
 5977,Normal
 5978,Exploits
-5979,Fuzzers
+5979,Normal
 5980,Reconnaissance
 5981,Backdoor
 5982,Normal
@@ -5998,7 +5998,7 @@ id,attack_cat
 5996,Normal
 5997,Backdoor
 5998,Fuzzers
-5999,Fuzzers
+5999,Normal
 6000,Fuzzers
 6001,Generic
 6002,Generic
@@ -6209,7 +6209,7 @@ id,attack_cat
 6207,Fuzzers
 6208,Normal
 6209,Normal
-6210,Shellcode
+6210,Exploits
 6211,Backdoor
 6212,Exploits
 6213,Generic
@@ -6343,7 +6343,7 @@ id,attack_cat
 6341,Normal
 6342,Generic
 6343,Exploits
-6344,Fuzzers
+6344,Normal
 6345,Generic
 6346,Generic
 6347,Generic
@@ -6354,7 +6354,7 @@ id,attack_cat
 6352,Fuzzers
 6353,Normal
 6354,Exploits
-6355,Fuzzers
+6355,Exploits
 6356,Exploits
 6357,Generic
 6358,Normal
@@ -6362,7 +6362,7 @@ id,attack_cat
 6360,Normal
 6361,Normal
 6362,Generic
-6363,Generic
+6363,Fuzzers
 6364,Exploits
 6365,Normal
 6366,Normal
@@ -6379,7 +6379,7 @@ id,attack_cat
 6377,Backdoor
 6378,DoS
 6379,Backdoor
-6380,Fuzzers
+6380,Normal
 6381,Fuzzers
 6382,Normal
 6383,Normal
@@ -6519,7 +6519,7 @@ id,attack_cat
 6517,Backdoor
 6518,Normal
 6519,Exploits
-6520,Analysis
+6520,Normal
 6521,Normal
 6522,Generic
 6523,DoS
@@ -6589,7 +6589,7 @@ id,attack_cat
 6587,Exploits
 6588,Shellcode
 6589,DoS
-6590,Fuzzers
+6590,Normal
 6591,Normal
 6592,Exploits
 6593,Exploits
@@ -6606,7 +6606,7 @@ id,attack_cat
 6604,Normal
 6605,Analysis
 6606,Backdoor
-6607,Fuzzers
+6607,Normal
 6608,Generic
 6609,Normal
 6610,Normal
@@ -6700,7 +6700,7 @@ id,attack_cat
 6698,Normal
 6699,Generic
 6700,Fuzzers
-6701,Fuzzers
+6701,Normal
 6702,Fuzzers
 6703,Fuzzers
 6704,Normal
@@ -6720,7 +6720,7 @@ id,attack_cat
 6718,Exploits
 6719,Normal
 6720,Generic
-6721,Fuzzers
+6721,Exploits
 6722,Normal
 6723,Normal
 6724,Fuzzers
@@ -6767,7 +6767,7 @@ id,attack_cat
 6765,Backdoor
 6766,Backdoor
 6767,Exploits
-6768,Exploits
+6768,Normal
 6769,Generic
 6770,Generic
 6771,Normal
@@ -6864,7 +6864,7 @@ id,attack_cat
 6862,Fuzzers
 6863,Fuzzers
 6864,Normal
-6865,DoS
+6865,Exploits
 6866,Backdoor
 6867,DoS
 6868,Generic
@@ -6899,7 +6899,7 @@ id,attack_cat
 6897,Normal
 6898,Generic
 6899,Shellcode
-6900,Generic
+6900,Fuzzers
 6901,Normal
 6902,Generic
 6903,Generic
@@ -6956,7 +6956,7 @@ id,attack_cat
 6954,Exploits
 6955,Normal
 6956,Generic
-6957,Exploits
+6957,Normal
 6958,Reconnaissance
 6959,Normal
 6960,Normal
@@ -7033,9 +7033,9 @@ id,attack_cat
 7031,Fuzzers
 7032,Generic
 7033,Backdoor
-7034,Generic
+7034,Fuzzers
 7035,Exploits
-7036,DoS
+7036,Normal
 7037,Exploits
 7038,DoS
 7039,Generic
@@ -7094,7 +7094,7 @@ id,attack_cat
 7092,Normal
 7093,Normal
 7094,Generic
-7095,Fuzzers
+7095,Exploits
 7096,Generic
 7097,Generic
 7098,Normal
@@ -7148,7 +7148,7 @@ id,attack_cat
 7146,DoS
 7147,Generic
 7148,Normal
-7149,Fuzzers
+7149,Normal
 7150,Reconnaissance
 7151,Generic
 7152,Generic
@@ -7187,7 +7187,7 @@ id,attack_cat
 7185,Reconnaissance
 7186,Normal
 7187,Generic
-7188,Fuzzers
+7188,Normal
 7189,Generic
 7190,Reconnaissance
 7191,Backdoor
@@ -7295,7 +7295,7 @@ id,attack_cat
 7293,Fuzzers
 7294,Backdoor
 7295,Normal
-7296,Reconnaissance
+7296,Fuzzers
 7297,Reconnaissance
 7298,Generic
 7299,DoS
@@ -7351,7 +7351,7 @@ id,attack_cat
 7349,Backdoor
 7350,Normal
 7351,Normal
-7352,Backdoor
+7352,Fuzzers
 7353,Fuzzers
 7354,Exploits
 7355,Generic
@@ -7386,7 +7386,7 @@ id,attack_cat
 7384,Backdoor
 7385,Normal
 7386,Normal
-7387,Fuzzers
+7387,Reconnaissance
 7388,Normal
 7389,DoS
 7390,Backdoor
@@ -7403,7 +7403,7 @@ id,attack_cat
 7401,Normal
 7402,Exploits
 7403,Backdoor
-7404,DoS
+7404,Generic
 7405,Normal
 7406,Backdoor
 7407,Generic
@@ -7412,7 +7412,7 @@ id,attack_cat
 7410,Normal
 7411,DoS
 7412,Fuzzers
-7413,Exploits
+7413,Normal
 7414,Generic
 7415,Normal
 7416,Backdoor
@@ -7498,7 +7498,7 @@ id,attack_cat
 7496,Generic
 7497,Normal
 7498,Generic
-7499,Fuzzers
+7499,Normal
 7500,Normal
 7501,Generic
 7502,Generic
@@ -7523,7 +7523,7 @@ id,attack_cat
 7521,Normal
 7522,Exploits
 7523,Backdoor
-7524,Fuzzers
+7524,Normal
 7525,Exploits
 7526,Backdoor
 7527,Generic
@@ -7544,7 +7544,7 @@ id,attack_cat
 7542,Exploits
 7543,Normal
 7544,Normal
-7545,Fuzzers
+7545,Normal
 7546,Backdoor
 7547,Exploits
 7548,Fuzzers
@@ -7831,7 +7831,7 @@ id,attack_cat
 7829,Normal
 7830,Generic
 7831,Generic
-7832,Generic
+7832,Exploits
 7833,Normal
 7834,Exploits
 7835,Exploits
@@ -7927,7 +7927,7 @@ id,attack_cat
 7925,Reconnaissance
 7926,Generic
 7927,DoS
-7928,Shellcode
+7928,Normal
 7929,Fuzzers
 7930,Exploits
 7931,Generic
@@ -7995,7 +7995,7 @@ id,attack_cat
 7993,Fuzzers
 7994,Exploits
 7995,Generic
-7996,Fuzzers
+7996,Normal
 7997,DoS
 7998,Normal
 7999,Generic
@@ -8006,7 +8006,7 @@ id,attack_cat
 8004,Normal
 8005,Normal
 8006,Normal
-8007,Fuzzers
+8007,Normal
 8008,Normal
 8009,Reconnaissance
 8010,Exploits
@@ -8053,7 +8053,7 @@ id,attack_cat
 8051,Normal
 8052,Fuzzers
 8053,DoS
-8054,Fuzzers
+8054,Exploits
 8055,Normal
 8056,Fuzzers
 8057,Generic
@@ -8066,7 +8066,7 @@ id,attack_cat
 8064,Exploits
 8065,Generic
 8066,Generic
-8067,DoS
+8067,Normal
 8068,Exploits
 8069,Normal
 8070,Fuzzers
@@ -8203,7 +8203,7 @@ id,attack_cat
 8201,DoS
 8202,Exploits
 8203,Exploits
-8204,Fuzzers
+8204,Exploits
 8205,Generic
 8206,Generic
 8207,Fuzzers
@@ -8304,13 +8304,13 @@ id,attack_cat
 8302,Exploits
 8303,Generic
 8304,Normal
-8305,Exploits
+8305,Normal
 8306,Exploits
 8307,Backdoor
 8308,Generic
 8309,Generic
 8310,Backdoor
-8311,DoS
+8311,Exploits
 8312,Exploits
 8313,Normal
 8314,Exploits
@@ -8350,7 +8350,7 @@ id,attack_cat
 8348,Normal
 8349,Generic
 8350,Fuzzers
-8351,DoS
+8351,Generic
 8352,Generic
 8353,Backdoor
 8354,Generic
@@ -8473,7 +8473,7 @@ id,attack_cat
 8471,Generic
 8472,Backdoor
 8473,Generic
-8474,Fuzzers
+8474,Exploits
 8475,Normal
 8476,Normal
 8477,Exploits
@@ -8798,11 +8798,11 @@ id,attack_cat
 8796,Backdoor
 8797,Normal
 8798,Generic
-8799,DoS
+8799,Fuzzers
 8800,Backdoor
 8801,Reconnaissance
 8802,Normal
-8803,Reconnaissance
+8803,DoS
 8804,Backdoor
 8805,DoS
 8806,Backdoor
@@ -8848,7 +8848,7 @@ id,attack_cat
 8846,Fuzzers
 8847,Normal
 8848,Reconnaissance
-8849,Fuzzers
+8849,Exploits
 8850,Backdoor
 8851,Exploits
 8852,Backdoor
@@ -8915,7 +8915,7 @@ id,attack_cat
 8913,Normal
 8914,Generic
 8915,Normal
-8916,Fuzzers
+8916,Exploits
 8917,Normal
 8918,Exploits
 8919,Normal
@@ -9018,7 +9018,7 @@ id,attack_cat
 9016,Analysis
 9017,Exploits
 9018,Generic
-9019,Fuzzers
+9019,Normal
 9020,Normal
 9021,Normal
 9022,Exploits
@@ -9095,7 +9095,7 @@ id,attack_cat
 9093,Generic
 9094,Normal
 9095,Generic
-9096,DoS
+9096,Fuzzers
 9097,Fuzzers
 9098,Backdoor
 9099,Normal
@@ -9161,7 +9161,7 @@ id,attack_cat
 9159,Backdoor
 9160,Generic
 9161,Normal
-9162,DoS
+9162,Fuzzers
 9163,Fuzzers
 9164,DoS
 9165,Normal
@@ -9204,7 +9204,7 @@ id,attack_cat
 9202,Normal
 9203,Generic
 9204,Normal
-9205,Fuzzers
+9205,Exploits
 9206,Generic
 9207,Generic
 9208,Reconnaissance
@@ -9311,7 +9311,7 @@ id,attack_cat
 9309,Backdoor
 9310,Exploits
 9311,Normal
-9312,Backdoor
+9312,Generic
 9313,Fuzzers
 9314,Fuzzers
 9315,Normal
@@ -9368,7 +9368,7 @@ id,attack_cat
 9366,Backdoor
 9367,Exploits
 9368,Generic
-9369,Fuzzers
+9369,Normal
 9370,Fuzzers
 9371,Normal
 9372,Fuzzers
@@ -9383,8 +9383,8 @@ id,attack_cat
 9381,Fuzzers
 9382,Generic
 9383,Backdoor
-9384,Backdoor
-9385,Fuzzers
+9384,Normal
+9385,Exploits
 9386,Generic
 9387,Generic
 9388,Generic
@@ -9441,7 +9441,7 @@ id,attack_cat
 9439,Exploits
 9440,Normal
 9441,Normal
-9442,Backdoor
+9442,Normal
 9443,Normal
 9444,Backdoor
 9445,Normal
@@ -9467,7 +9467,7 @@ id,attack_cat
 9465,Normal
 9466,Generic
 9467,Normal
-9468,Reconnaissance
+9468,Exploits
 9469,Normal
 9470,Fuzzers
 9471,Normal
@@ -9477,13 +9477,13 @@ id,attack_cat
 9475,Normal
 9476,Generic
 9477,Normal
-9478,Generic
+9478,DoS
 9479,Normal
 9480,Normal
 9481,Normal
 9482,Exploits
 9483,Fuzzers
-9484,Exploits
+9484,Normal
 9485,Backdoor
 9486,Normal
 9487,Normal
@@ -9615,7 +9615,7 @@ id,attack_cat
 9613,Generic
 9614,Generic
 9615,Shellcode
-9616,Reconnaissance
+9616,Exploits
 9617,Exploits
 9618,Backdoor
 9619,Backdoor
@@ -9733,7 +9733,7 @@ id,attack_cat
 9731,Reconnaissance
 9732,Normal
 9733,Generic
-9734,Shellcode
+9734,Fuzzers
 9735,Backdoor
 9736,Exploits
 9737,Backdoor
@@ -9928,7 +9928,7 @@ id,attack_cat
 9926,Normal
 9927,Generic
 9928,Exploits
-9929,Fuzzers
+9929,Exploits
 9930,Fuzzers
 9931,Backdoor
 9932,Normal
@@ -9966,7 +9966,7 @@ id,attack_cat
 9964,Fuzzers
 9965,Generic
 9966,Generic
-9967,Normal
+9967,Exploits
 9968,Normal
 9969,Normal
 9970,Fuzzers
@@ -9985,7 +9985,7 @@ id,attack_cat
 9983,Normal
 9984,Fuzzers
 9985,Exploits
-9986,Generic
+9986,Fuzzers
 9987,DoS
 9988,Normal
 9989,Exploits
@@ -10279,7 +10279,7 @@ id,attack_cat
 10277,Fuzzers
 10278,Fuzzers
 10279,Reconnaissance
-10280,Exploits
+10280,Normal
 10281,Generic
 10282,Normal
 10283,Backdoor
@@ -10304,7 +10304,7 @@ id,attack_cat
 10302,Generic
 10303,Generic
 10304,Generic
-10305,Exploits
+10305,Normal
 10306,Exploits
 10307,Generic
 10308,Fuzzers
@@ -10415,7 +10415,7 @@ id,attack_cat
 10413,Reconnaissance
 10414,Generic
 10415,Fuzzers
-10416,Backdoor
+10416,Exploits
 10417,Normal
 10418,Normal
 10419,Normal
@@ -10423,7 +10423,7 @@ id,attack_cat
 10421,Generic
 10422,Normal
 10423,Generic
-10424,Fuzzers
+10424,Exploits
 10425,Generic
 10426,Normal
 10427,Exploits
@@ -10452,7 +10452,7 @@ id,attack_cat
 10450,Generic
 10451,Normal
 10452,Fuzzers
-10453,Normal
+10453,Exploits
 10454,Exploits
 10455,Normal
 10456,Normal
@@ -10545,7 +10545,7 @@ id,attack_cat
 10543,Normal
 10544,Generic
 10545,Normal
-10546,Fuzzers
+10546,Exploits
 10547,Generic
 10548,Generic
 10549,DoS
@@ -10639,7 +10639,7 @@ id,attack_cat
 10637,DoS
 10638,Normal
 10639,Reconnaissance
-10640,Backdoor
+10640,Generic
 10641,Generic
 10642,Generic
 10643,Exploits
@@ -10668,7 +10668,7 @@ id,attack_cat
 10666,Backdoor
 10667,Exploits
 10668,Generic
-10669,Fuzzers
+10669,Reconnaissance
 10670,Fuzzers
 10671,Exploits
 10672,Normal
@@ -10681,7 +10681,7 @@ id,attack_cat
 10679,Exploits
 10680,Normal
 10681,Exploits
-10682,Fuzzers
+10682,Normal
 10683,Normal
 10684,Fuzzers
 10685,Normal
@@ -10700,7 +10700,7 @@ id,attack_cat
 10698,Exploits
 10699,Normal
 10700,Exploits
-10701,Shellcode
+10701,Fuzzers
 10702,Exploits
 10703,Backdoor
 10704,Fuzzers
@@ -10731,7 +10731,7 @@ id,attack_cat
 10729,Fuzzers
 10730,Generic
 10731,Normal
-10732,Fuzzers
+10732,Normal
 10733,Normal
 10734,Exploits
 10735,Generic
@@ -10822,7 +10822,7 @@ id,attack_cat
 10820,Exploits
 10821,Backdoor
 10822,Generic
-10823,DoS
+10823,Normal
 10824,Exploits
 10825,Exploits
 10826,Generic
@@ -10836,7 +10836,7 @@ id,attack_cat
 10834,DoS
 10835,Fuzzers
 10836,Normal
-10837,Exploits
+10837,Normal
 10838,Backdoor
 10839,Analysis
 10840,Generic
@@ -10923,7 +10923,7 @@ id,attack_cat
 10921,Normal
 10922,Reconnaissance
 10923,Exploits
-10924,Fuzzers
+10924,Exploits
 10925,Normal
 10926,Fuzzers
 10927,Generic
@@ -10965,12 +10965,12 @@ id,attack_cat
 10963,Normal
 10964,Exploits
 10965,Backdoor
-10966,Fuzzers
+10966,Normal
 10967,Fuzzers
 10968,Reconnaissance
 10969,Generic
 10970,Fuzzers
-10971,Fuzzers
+10971,Normal
 10972,Backdoor
 10973,Fuzzers
 10974,Fuzzers
@@ -11097,7 +11097,7 @@ id,attack_cat
 11095,Exploits
 11096,Normal
 11097,Normal
-11098,Fuzzers
+11098,Normal
 11099,Exploits
 11100,Exploits
 11101,Normal
@@ -11510,7 +11510,7 @@ id,attack_cat
 11508,Backdoor
 11509,Exploits
 11510,Normal
-11511,Reconnaissance
+11511,Fuzzers
 11512,Exploits
 11513,Fuzzers
 11514,Exploits
@@ -11627,7 +11627,7 @@ id,attack_cat
 11625,Exploits
 11626,Backdoor
 11627,Generic
-11628,Fuzzers
+11628,Normal
 11629,Reconnaissance
 11630,Generic
 11631,Normal
@@ -11637,7 +11637,7 @@ id,attack_cat
 11635,Fuzzers
 11636,Normal
 11637,Generic
-11638,DoS
+11638,Reconnaissance
 11639,Reconnaissance
 11640,Generic
 11641,Fuzzers
@@ -11830,7 +11830,7 @@ id,attack_cat
 11828,Normal
 11829,Normal
 11830,Normal
-11831,Fuzzers
+11831,Exploits
 11832,Generic
 11833,Backdoor
 11834,Normal
@@ -11848,14 +11848,14 @@ id,attack_cat
 11846,Normal
 11847,Generic
 11848,DoS
-11849,Analysis
+11849,Exploits
 11850,Backdoor
 11851,Fuzzers
 11852,Fuzzers
 11853,Normal
 11854,Exploits
 11855,Reconnaissance
-11856,Backdoor
+11856,Generic
 11857,Normal
 11858,Generic
 11859,Normal
@@ -11873,7 +11873,7 @@ id,attack_cat
 11871,Normal
 11872,Normal
 11873,Normal
-11874,DoS
+11874,Fuzzers
 11875,Backdoor
 11876,Fuzzers
 11877,Normal
@@ -11915,7 +11915,7 @@ id,attack_cat
 11913,Normal
 11914,Generic
 11915,Exploits
-11916,Exploits
+11916,Normal
 11917,Fuzzers
 11918,Backdoor
 11919,Normal
@@ -11947,7 +11947,7 @@ id,attack_cat
 11945,Shellcode
 11946,Fuzzers
 11947,Normal
-11948,Fuzzers
+11948,Normal
 11949,Analysis
 11950,Fuzzers
 11951,Fuzzers
@@ -11995,7 +11995,7 @@ id,attack_cat
 11993,Generic
 11994,Generic
 11995,Normal
-11996,Generic
+11996,Fuzzers
 11997,Reconnaissance
 11998,Normal
 11999,Reconnaissance
@@ -12033,7 +12033,7 @@ id,attack_cat
 12031,Generic
 12032,Normal
 12033,Generic
-12034,Backdoor
+12034,Exploits
 12035,Exploits
 12036,Normal
 12037,Backdoor
@@ -12089,7 +12089,7 @@ id,attack_cat
 12087,DoS
 12088,Exploits
 12089,Analysis
-12090,Reconnaissance
+12090,Normal
 12091,Normal
 12092,Fuzzers
 12093,Generic
@@ -12263,7 +12263,7 @@ id,attack_cat
 12261,Generic
 12262,Exploits
 12263,Generic
-12264,Fuzzers
+12264,Normal
 12265,Exploits
 12266,Fuzzers
 12267,Fuzzers
@@ -12297,7 +12297,7 @@ id,attack_cat
 12295,Generic
 12296,Fuzzers
 12297,Shellcode
-12298,Fuzzers
+12298,Normal
 12299,Normal
 12300,Normal
 12301,Fuzzers
@@ -12556,7 +12556,7 @@ id,attack_cat
 12554,Normal
 12555,Generic
 12556,Shellcode
-12557,Backdoor
+12557,Exploits
 12558,Backdoor
 12559,Generic
 12560,Exploits
@@ -12776,7 +12776,7 @@ id,attack_cat
 12774,Normal
 12775,Backdoor
 12776,Exploits
-12777,Exploits
+12777,Normal
 12778,Normal
 12779,DoS
 12780,Exploits
@@ -12898,7 +12898,7 @@ id,attack_cat
 12896,Exploits
 12897,Fuzzers
 12898,Fuzzers
-12899,Shellcode
+12899,Fuzzers
 12900,Exploits
 12901,Reconnaissance
 12902,Exploits
@@ -12941,7 +12941,7 @@ id,attack_cat
 12939,Fuzzers
 12940,Normal
 12941,Reconnaissance
-12942,Fuzzers
+12942,Normal
 12943,Exploits
 12944,DoS
 12945,Normal
@@ -13003,7 +13003,7 @@ id,attack_cat
 13001,Fuzzers
 13002,Generic
 13003,Generic
-13004,Fuzzers
+13004,Normal
 13005,Exploits
 13006,Fuzzers
 13007,Fuzzers
@@ -13142,7 +13142,7 @@ id,attack_cat
 13140,DoS
 13141,Normal
 13142,Generic
-13143,Fuzzers
+13143,Normal
 13144,Fuzzers
 13145,Generic
 13146,Normal
@@ -13151,7 +13151,7 @@ id,attack_cat
 13149,Exploits
 13150,Generic
 13151,Normal
-13152,Fuzzers
+13152,Normal
 13153,Reconnaissance
 13154,Exploits
 13155,Exploits
@@ -13225,7 +13225,7 @@ id,attack_cat
 13223,Exploits
 13224,Normal
 13225,Fuzzers
-13226,Reconnaissance
+13226,Exploits
 13227,Normal
 13228,Fuzzers
 13229,Generic
@@ -13250,7 +13250,7 @@ id,attack_cat
 13248,Exploits
 13249,Exploits
 13250,Normal
-13251,Fuzzers
+13251,Normal
 13252,Exploits
 13253,Generic
 13254,Generic
@@ -13269,16 +13269,16 @@ id,attack_cat
 13267,Exploits
 13268,Fuzzers
 13269,Normal
-13270,Fuzzers
+13270,Normal
 13271,Exploits
 13272,Normal
 13273,Fuzzers
 13274,Backdoor
 13275,Normal
-13276,Fuzzers
+13276,Exploits
 13277,Normal
 13278,Generic
-13279,Fuzzers
+13279,Exploits
 13280,Normal
 13281,Exploits
 13282,Exploits
@@ -13314,7 +13314,7 @@ id,attack_cat
 13312,Fuzzers
 13313,Backdoor
 13314,Generic
-13315,Fuzzers
+13315,Normal
 13316,Backdoor
 13317,Fuzzers
 13318,Exploits
@@ -13377,7 +13377,7 @@ id,attack_cat
 13375,Normal
 13376,Generic
 13377,DoS
-13378,Generic
+13378,Exploits
 13379,Generic
 13380,Normal
 13381,DoS
@@ -13508,7 +13508,7 @@ id,attack_cat
 13506,Generic
 13507,Exploits
 13508,Exploits
-13509,Reconnaissance
+13509,Normal
 13510,Exploits
 13511,Normal
 13512,Generic
@@ -13525,7 +13525,7 @@ id,attack_cat
 13523,Normal
 13524,Exploits
 13525,Shellcode
-13526,Worms
+13526,Exploits
 13527,Backdoor
 13528,Exploits
 13529,Generic
@@ -13774,7 +13774,7 @@ id,attack_cat
 13772,Normal
 13773,Normal
 13774,Backdoor
-13775,Fuzzers
+13775,Normal
 13776,Normal
 13777,Fuzzers
 13778,Normal
@@ -13808,13 +13808,13 @@ id,attack_cat
 13806,Normal
 13807,Exploits
 13808,Normal
-13809,Fuzzers
+13809,Normal
 13810,Generic
 13811,Fuzzers
 13812,Normal
 13813,Exploits
 13814,Fuzzers
-13815,Analysis
+13815,Normal
 13816,Reconnaissance
 13817,Generic
 13818,Exploits
@@ -14076,7 +14076,7 @@ id,attack_cat
 14074,Normal
 14075,Generic
 14076,Fuzzers
-14077,Generic
+14077,Fuzzers
 14078,Exploits
 14079,Normal
 14080,Generic
@@ -14087,7 +14087,7 @@ id,attack_cat
 14085,Exploits
 14086,Normal
 14087,Normal
-14088,Fuzzers
+14088,Normal
 14089,Normal
 14090,DoS
 14091,Generic
@@ -14133,7 +14133,7 @@ id,attack_cat
 14131,Backdoor
 14132,Normal
 14133,Normal
-14134,Fuzzers
+14134,Normal
 14135,Normal
 14136,Normal
 14137,Generic
@@ -14143,7 +14143,7 @@ id,attack_cat
 14141,Generic
 14142,Generic
 14143,Normal
-14144,Exploits
+14144,Normal
 14145,Exploits
 14146,Generic
 14147,Normal
@@ -14218,7 +14218,7 @@ id,attack_cat
 14216,Fuzzers
 14217,Backdoor
 14218,Exploits
-14219,Fuzzers
+14219,Exploits
 14220,Normal
 14221,Exploits
 14222,Generic
@@ -14371,7 +14371,7 @@ id,attack_cat
 14369,Backdoor
 14370,DoS
 14371,Normal
-14372,DoS
+14372,Normal
 14373,DoS
 14374,Backdoor
 14375,Generic
@@ -14419,7 +14419,7 @@ id,attack_cat
 14417,Worms
 14418,Normal
 14419,Normal
-14420,Fuzzers
+14420,Normal
 14421,Fuzzers
 14422,Generic
 14423,Normal
@@ -14469,7 +14469,7 @@ id,attack_cat
 14467,Fuzzers
 14468,Generic
 14469,Normal
-14470,Fuzzers
+14470,Normal
 14471,Fuzzers
 14472,Normal
 14473,Normal
@@ -14513,7 +14513,7 @@ id,attack_cat
 14511,Fuzzers
 14512,Backdoor
 14513,Reconnaissance
-14514,Backdoor
+14514,Normal
 14515,Reconnaissance
 14516,Normal
 14517,Exploits
@@ -14562,7 +14562,7 @@ id,attack_cat
 14560,DoS
 14561,Generic
 14562,Generic
-14563,Exploits
+14563,Normal
 14564,Normal
 14565,Backdoor
 14566,Generic
@@ -14690,14 +14690,14 @@ id,attack_cat
 14688,Fuzzers
 14689,Normal
 14690,Fuzzers
-14691,Shellcode
+14691,Normal
 14692,Exploits
 14693,Normal
 14694,Normal
 14695,Fuzzers
 14696,Backdoor
 14697,Generic
-14698,Fuzzers
+14698,Exploits
 14699,Normal
 14700,Normal
 14701,Backdoor
@@ -14716,7 +14716,7 @@ id,attack_cat
 14714,Normal
 14715,Normal
 14716,Normal
-14717,Analysis
+14717,Normal
 14718,Normal
 14719,Normal
 14720,Normal
@@ -14744,7 +14744,7 @@ id,attack_cat
 14742,Fuzzers
 14743,Generic
 14744,Generic
-14745,Fuzzers
+14745,Exploits
 14746,Normal
 14747,Normal
 14748,Normal
@@ -14848,7 +14848,7 @@ id,attack_cat
 14846,Generic
 14847,Generic
 14848,Exploits
-14849,Backdoor
+14849,Generic
 14850,Exploits
 14851,Worms
 14852,Reconnaissance
@@ -14884,7 +14884,7 @@ id,attack_cat
 14882,Generic
 14883,Normal
 14884,Normal
-14885,Fuzzers
+14885,Exploits
 14886,Normal
 14887,Normal
 14888,Fuzzers
@@ -14907,7 +14907,7 @@ id,attack_cat
 14905,Backdoor
 14906,Exploits
 14907,Exploits
-14908,Fuzzers
+14908,Exploits
 14909,Fuzzers
 14910,Normal
 14911,DoS
@@ -14947,7 +14947,7 @@ id,attack_cat
 14945,Exploits
 14946,Normal
 14947,Reconnaissance
-14948,Reconnaissance
+14948,Fuzzers
 14949,Exploits
 14950,Generic
 14951,Generic
@@ -14993,7 +14993,7 @@ id,attack_cat
 14991,Generic
 14992,Fuzzers
 14993,Shellcode
-14994,Exploits
+14994,Normal
 14995,DoS
 14996,Generic
 14997,Fuzzers
@@ -15006,7 +15006,7 @@ id,attack_cat
 15004,Generic
 15005,Backdoor
 15006,Exploits
-15007,DoS
+15007,Exploits
 15008,Exploits
 15009,Normal
 15010,Shellcode
@@ -15086,7 +15086,7 @@ id,attack_cat
 15084,DoS
 15085,Generic
 15086,Normal
-15087,Fuzzers
+15087,Exploits
 15088,Normal
 15089,Generic
 15090,Normal
@@ -15125,7 +15125,7 @@ id,attack_cat
 15123,Normal
 15124,Fuzzers
 15125,Normal
-15126,DoS
+15126,Exploits
 15127,Normal
 15128,Exploits
 15129,Generic
@@ -15208,7 +15208,7 @@ id,attack_cat
 15206,Generic
 15207,Fuzzers
 15208,Analysis
-15209,Fuzzers
+15209,Exploits
 15210,Fuzzers
 15211,Normal
 15212,Generic
@@ -15221,7 +15221,7 @@ id,attack_cat
 15219,Normal
 15220,Reconnaissance
 15221,Normal
-15222,Shellcode
+15222,Normal
 15223,Normal
 15224,Generic
 15225,Exploits
@@ -15327,7 +15327,7 @@ id,attack_cat
 15325,Normal
 15326,Fuzzers
 15327,Generic
-15328,Fuzzers
+15328,Normal
 15329,Exploits
 15330,Normal
 15331,Exploits
@@ -15344,7 +15344,7 @@ id,attack_cat
 15342,Fuzzers
 15343,Generic
 15344,Normal
-15345,Fuzzers
+15345,Normal
 15346,Reconnaissance
 15347,Backdoor
 15348,Backdoor
@@ -15415,7 +15415,7 @@ id,attack_cat
 15413,Exploits
 15414,Generic
 15415,Backdoor
-15416,Fuzzers
+15416,Normal
 15417,Generic
 15418,Shellcode
 15419,Generic
@@ -15453,11 +15453,11 @@ id,attack_cat
 15451,Normal
 15452,Normal
 15453,Normal
-15454,Fuzzers
+15454,Exploits
 15455,Fuzzers
 15456,Generic
 15457,Normal
-15458,Analysis
+15458,Exploits
 15459,Generic
 15460,Backdoor
 15461,Reconnaissance
@@ -15470,9 +15470,9 @@ id,attack_cat
 15468,Normal
 15469,Exploits
 15470,Normal
-15471,Generic
+15471,Fuzzers
 15472,Normal
-15473,DoS
+15473,Normal
 15474,Backdoor
 15475,Reconnaissance
 15476,Generic
@@ -15533,7 +15533,7 @@ id,attack_cat
 15531,Exploits
 15532,Generic
 15533,Normal
-15534,Fuzzers
+15534,Normal
 15535,Fuzzers
 15536,Normal
 15537,Fuzzers
@@ -15551,7 +15551,7 @@ id,attack_cat
 15549,Fuzzers
 15550,DoS
 15551,Normal
-15552,Exploits
+15552,DoS
 15553,DoS
 15554,Backdoor
 15555,Backdoor
@@ -15572,7 +15572,7 @@ id,attack_cat
 15570,Normal
 15571,Exploits
 15572,Normal
-15573,Backdoor
+15573,Fuzzers
 15574,Generic
 15575,Analysis
 15576,Generic
@@ -15622,7 +15622,7 @@ id,attack_cat
 15620,Backdoor
 15621,Exploits
 15622,DoS
-15623,Fuzzers
+15623,Normal
 15624,Exploits
 15625,Exploits
 15626,Normal
@@ -15780,14 +15780,14 @@ id,attack_cat
 15778,Backdoor
 15779,Normal
 15780,Normal
-15781,Exploits
+15781,Normal
 15782,Generic
 15783,Generic
 15784,Normal
 15785,Reconnaissance
 15786,Exploits
 15787,Generic
-15788,Fuzzers
+15788,Normal
 15789,Fuzzers
 15790,Normal
 15791,Normal
@@ -15954,7 +15954,7 @@ id,attack_cat
 15952,Exploits
 15953,Shellcode
 15954,Generic
-15955,Fuzzers
+15955,Normal
 15956,Fuzzers
 15957,Generic
 15958,Backdoor
@@ -15978,7 +15978,7 @@ id,attack_cat
 15976,Generic
 15977,Normal
 15978,Generic
-15979,Fuzzers
+15979,Exploits
 15980,Normal
 15981,Normal
 15982,Fuzzers
@@ -15987,7 +15987,7 @@ id,attack_cat
 15985,Fuzzers
 15986,Normal
 15987,Normal
-15988,Shellcode
+15988,Normal
 15989,Exploits
 15990,Normal
 15991,Normal
@@ -16063,7 +16063,7 @@ id,attack_cat
 16061,Analysis
 16062,Normal
 16063,Backdoor
-16064,Fuzzers
+16064,Normal
 16065,Generic
 16066,Exploits
 16067,Fuzzers
@@ -16168,7 +16168,7 @@ id,attack_cat
 16166,Normal
 16167,Normal
 16168,Generic
-16169,Backdoor
+16169,Fuzzers
 16170,Normal
 16171,Generic
 16172,Normal
@@ -16274,7 +16274,7 @@ id,attack_cat
 16272,Backdoor
 16273,Normal
 16274,Analysis
-16275,Fuzzers
+16275,Normal
 16276,Normal
 16277,Fuzzers
 16278,Generic
@@ -16295,7 +16295,7 @@ id,attack_cat
 16293,Generic
 16294,Backdoor
 16295,Normal
-16296,Exploits
+16296,Normal
 16297,Backdoor
 16298,Generic
 16299,Fuzzers
@@ -16336,7 +16336,7 @@ id,attack_cat
 16334,Fuzzers
 16335,Exploits
 16336,Normal
-16337,Backdoor
+16337,Fuzzers
 16338,Normal
 16339,Normal
 16340,Normal
@@ -16541,7 +16541,7 @@ id,attack_cat
 16539,Backdoor
 16540,Exploits
 16541,Normal
-16542,Fuzzers
+16542,Normal
 16543,Generic
 16544,Normal
 16545,Generic
@@ -16640,7 +16640,7 @@ id,attack_cat
 16638,Backdoor
 16639,Normal
 16640,Exploits
-16641,Fuzzers
+16641,Normal
 16642,Generic
 16643,Backdoor
 16644,Normal
@@ -16669,7 +16669,7 @@ id,attack_cat
 16667,DoS
 16668,Fuzzers
 16669,Exploits
-16670,Fuzzers
+16670,Normal
 16671,Fuzzers
 16672,Normal
 16673,Fuzzers
@@ -16735,17 +16735,17 @@ id,attack_cat
 16733,Normal
 16734,Generic
 16735,Shellcode
-16736,Fuzzers
+16736,Normal
 16737,Normal
 16738,Backdoor
 16739,Normal
 16740,Generic
-16741,DoS
+16741,Exploits
 16742,Backdoor
 16743,Normal
 16744,Generic
 16745,Generic
-16746,Exploits
+16746,Normal
 16747,Normal
 16748,Normal
 16749,Exploits
@@ -16761,7 +16761,7 @@ id,attack_cat
 16759,Normal
 16760,Analysis
 16761,Normal
-16762,Analysis
+16762,Exploits
 16763,Generic
 16764,Normal
 16765,Fuzzers
@@ -16777,7 +16777,7 @@ id,attack_cat
 16775,DoS
 16776,Generic
 16777,Normal
-16778,DoS
+16778,Normal
 16779,Normal
 16780,Backdoor
 16781,Fuzzers
@@ -16850,7 +16850,7 @@ id,attack_cat
 16848,Fuzzers
 16849,Normal
 16850,Normal
-16851,Fuzzers
+16851,Normal
 16852,Normal
 16853,Normal
 16854,Normal
@@ -16863,7 +16863,7 @@ id,attack_cat
 16861,Exploits
 16862,Generic
 16863,Fuzzers
-16864,DoS
+16864,Exploits
 16865,Generic
 16866,Normal
 16867,DoS
@@ -16928,7 +16928,7 @@ id,attack_cat
 16926,Generic
 16927,Normal
 16928,Normal
-16929,Fuzzers
+16929,Normal
 16930,Backdoor
 16931,Reconnaissance
 16932,Generic
@@ -17035,7 +17035,7 @@ id,attack_cat
 17033,Exploits
 17034,Generic
 17035,Backdoor
-17036,Exploits
+17036,Normal
 17037,Generic
 17038,Generic
 17039,Normal
@@ -17099,12 +17099,12 @@ id,attack_cat
 17097,Fuzzers
 17098,Exploits
 17099,Generic
-17100,Fuzzers
+17100,Normal
 17101,Fuzzers
 17102,Normal
 17103,Reconnaissance
 17104,Generic
-17105,Exploits
+17105,Normal
 17106,Exploits
 17107,Fuzzers
 17108,Backdoor
@@ -17161,7 +17161,7 @@ id,attack_cat
 17159,Exploits
 17160,Generic
 17161,Exploits
-17162,Backdoor
+17162,Fuzzers
 17163,Generic
 17164,Exploits
 17165,DoS
@@ -17190,7 +17190,7 @@ id,attack_cat
 17188,Backdoor
 17189,Normal
 17190,Generic
-17191,Generic
+17191,DoS
 17192,Fuzzers
 17193,Normal
 17194,Backdoor
@@ -17250,7 +17250,7 @@ id,attack_cat
 17248,Normal
 17249,Backdoor
 17250,Generic
-17251,Reconnaissance
+17251,Normal
 17252,Fuzzers
 17253,Normal
 17254,Fuzzers
@@ -17319,7 +17319,7 @@ id,attack_cat
 17317,Generic
 17318,Normal
 17319,Generic
-17320,Fuzzers
+17320,Normal
 17321,Fuzzers
 17322,Generic
 17323,Shellcode
@@ -17335,7 +17335,7 @@ id,attack_cat
 17333,Backdoor
 17334,Generic
 17335,Generic
-17336,Generic
+17336,Normal
 17337,Backdoor
 17338,Normal
 17339,Normal
@@ -17349,8 +17349,8 @@ id,attack_cat
 17347,Exploits
 17348,Backdoor
 17349,Fuzzers
-17350,Fuzzers
-17351,Worms
+17350,Normal
+17351,Normal
 17352,Exploits
 17353,Generic
 17354,Generic
@@ -17397,7 +17397,7 @@ id,attack_cat
 17395,Fuzzers
 17396,Fuzzers
 17397,Normal
-17398,Backdoor
+17398,Normal
 17399,Generic
 17400,Normal
 17401,Reconnaissance
@@ -17630,11 +17630,11 @@ id,attack_cat
 17628,Fuzzers
 17629,Generic
 17630,Normal
-17631,Fuzzers
+17631,Normal
 17632,Fuzzers
 17633,Backdoor
 17634,Normal
-17635,Backdoor
+17635,Generic
 17636,Exploits
 17637,Normal
 17638,Normal
@@ -17772,7 +17772,7 @@ id,attack_cat
 17770,Fuzzers
 17771,Generic
 17772,Normal
-17773,Fuzzers
+17773,Reconnaissance
 17774,Backdoor
 17775,Generic
 17776,Normal
@@ -17788,7 +17788,7 @@ id,attack_cat
 17786,Fuzzers
 17787,Backdoor
 17788,Generic
-17789,Backdoor
+17789,Reconnaissance
 17790,Backdoor
 17791,Shellcode
 17792,Fuzzers
@@ -17811,8 +17811,8 @@ id,attack_cat
 17809,Backdoor
 17810,Normal
 17811,Backdoor
-17812,Fuzzers
-17813,Fuzzers
+17812,Normal
+17813,Normal
 17814,Fuzzers
 17815,Normal
 17816,Normal
@@ -17823,7 +17823,7 @@ id,attack_cat
 17821,Backdoor
 17822,Analysis
 17823,Fuzzers
-17824,Fuzzers
+17824,Normal
 17825,Normal
 17826,Normal
 17827,Normal
@@ -17862,7 +17862,7 @@ id,attack_cat
 17860,Exploits
 17861,Generic
 17862,Normal
-17863,Normal
+17863,Exploits
 17864,Fuzzers
 17865,Generic
 17866,Normal
@@ -18003,12 +18003,12 @@ id,attack_cat
 18001,Generic
 18002,Fuzzers
 18003,Fuzzers
-18004,DoS
+18004,Fuzzers
 18005,Normal
 18006,Backdoor
 18007,Generic
 18008,Fuzzers
-18009,Fuzzers
+18009,Exploits
 18010,Exploits
 18011,DoS
 18012,Normal
@@ -18019,7 +18019,7 @@ id,attack_cat
 18017,Fuzzers
 18018,DoS
 18019,Generic
-18020,Fuzzers
+18020,Normal
 18021,Fuzzers
 18022,Normal
 18023,Backdoor
@@ -18071,12 +18071,12 @@ id,attack_cat
 18069,Normal
 18070,Fuzzers
 18071,Reconnaissance
-18072,DoS
-18073,Fuzzers
+18072,Exploits
+18073,Exploits
 18074,Normal
 18075,Normal
 18076,Fuzzers
-18077,Fuzzers
+18077,Exploits
 18078,Shellcode
 18079,Normal
 18080,Normal
@@ -18126,7 +18126,7 @@ id,attack_cat
 18124,Exploits
 18125,Generic
 18126,Generic
-18127,Fuzzers
+18127,Normal
 18128,Reconnaissance
 18129,Backdoor
 18130,Generic
@@ -18159,7 +18159,7 @@ id,attack_cat
 18157,Exploits
 18158,Exploits
 18159,Reconnaissance
-18160,DoS
+18160,Exploits
 18161,Generic
 18162,Normal
 18163,Normal
@@ -18229,7 +18229,7 @@ id,attack_cat
 18227,Normal
 18228,Generic
 18229,Exploits
-18230,Reconnaissance
+18230,Normal
 18231,DoS
 18232,Exploits
 18233,Generic
@@ -18249,7 +18249,7 @@ id,attack_cat
 18247,Reconnaissance
 18248,Fuzzers
 18249,Generic
-18250,Fuzzers
+18250,Normal
 18251,Fuzzers
 18252,Generic
 18253,Normal
@@ -18378,7 +18378,7 @@ id,attack_cat
 18376,Generic
 18377,Reconnaissance
 18378,Normal
-18379,Fuzzers
+18379,Normal
 18380,Exploits
 18381,Normal
 18382,Normal
@@ -18398,7 +18398,7 @@ id,attack_cat
 18396,Fuzzers
 18397,Generic
 18398,Normal
-18399,Exploits
+18399,Normal
 18400,Fuzzers
 18401,Backdoor
 18402,Normal
@@ -18636,7 +18636,7 @@ id,attack_cat
 18634,Fuzzers
 18635,Generic
 18636,Normal
-18637,Fuzzers
+18637,Exploits
 18638,Normal
 18639,Normal
 18640,Fuzzers
@@ -18809,7 +18809,7 @@ id,attack_cat
 18807,Normal
 18808,Normal
 18809,Exploits
-18810,Backdoor
+18810,Normal
 18811,Normal
 18812,Generic
 18813,Exploits
@@ -18880,7 +18880,7 @@ id,attack_cat
 18878,Exploits
 18879,DoS
 18880,DoS
-18881,Fuzzers
+18881,Normal
 18882,Reconnaissance
 18883,Backdoor
 18884,Normal
@@ -18969,7 +18969,7 @@ id,attack_cat
 18967,Analysis
 18968,Reconnaissance
 18969,Generic
-18970,Fuzzers
+18970,Exploits
 18971,Generic
 18972,Fuzzers
 18973,Normal
@@ -19153,7 +19153,7 @@ id,attack_cat
 19151,Normal
 19152,Fuzzers
 19153,Generic
-19154,Backdoor
+19154,Normal
 19155,Backdoor
 19156,Normal
 19157,Normal
@@ -19167,7 +19167,7 @@ id,attack_cat
 19165,Generic
 19166,Generic
 19167,Exploits
-19168,Backdoor
+19168,Generic
 19169,Generic
 19170,Normal
 19171,Fuzzers
@@ -19176,7 +19176,7 @@ id,attack_cat
 19174,Generic
 19175,Fuzzers
 19176,Normal
-19177,Generic
+19177,Fuzzers
 19178,Backdoor
 19179,Normal
 19180,Fuzzers
@@ -19223,7 +19223,7 @@ id,attack_cat
 19221,Fuzzers
 19222,Exploits
 19223,Normal
-19224,Fuzzers
+19224,Normal
 19225,Generic
 19226,Backdoor
 19227,Exploits
@@ -19354,7 +19354,7 @@ id,attack_cat
 19352,Generic
 19353,Generic
 19354,Generic
-19355,Fuzzers
+19355,Normal
 19356,Generic
 19357,Normal
 19358,Generic
@@ -19437,7 +19437,7 @@ id,attack_cat
 19435,Normal
 19436,Normal
 19437,Generic
-19438,Fuzzers
+19438,Normal
 19439,Fuzzers
 19440,Fuzzers
 19441,Normal
@@ -19532,7 +19532,7 @@ id,attack_cat
 19530,Normal
 19531,Generic
 19532,Reconnaissance
-19533,Shellcode
+19533,Reconnaissance
 19534,Fuzzers
 19535,Normal
 19536,Normal
@@ -19561,7 +19561,7 @@ id,attack_cat
 19559,Fuzzers
 19560,Generic
 19561,Backdoor
-19562,Reconnaissance
+19562,Fuzzers
 19563,Normal
 19564,Backdoor
 19565,Fuzzers
@@ -19716,7 +19716,7 @@ id,attack_cat
 19714,Fuzzers
 19715,Fuzzers
 19716,Exploits
-19717,Backdoor
+19717,Reconnaissance
 19718,Normal
 19719,Fuzzers
 19720,Normal
@@ -19831,7 +19831,7 @@ id,attack_cat
 19829,Generic
 19830,Shellcode
 19831,Backdoor
-19832,Fuzzers
+19832,Exploits
 19833,Normal
 19834,Generic
 19835,Exploits
@@ -19909,7 +19909,7 @@ id,attack_cat
 19907,Generic
 19908,Generic
 19909,Normal
-19910,Fuzzers
+19910,Exploits
 19911,Generic
 19912,Generic
 19913,Generic
@@ -19967,7 +19967,7 @@ id,attack_cat
 19965,Generic
 19966,Generic
 19967,Generic
-19968,DoS
+19968,Fuzzers
 19969,Normal
 19970,Normal
 19971,Exploits
@@ -20047,7 +20047,7 @@ id,attack_cat
 20045,Analysis
 20046,Exploits
 20047,Reconnaissance
-20048,Fuzzers
+20048,Exploits
 20049,Normal
 20050,Backdoor
 20051,Generic
@@ -20080,7 +20080,7 @@ id,attack_cat
 20078,Generic
 20079,Exploits
 20080,Generic
-20081,Fuzzers
+20081,Normal
 20082,Backdoor
 20083,Backdoor
 20084,Normal
@@ -20223,7 +20223,7 @@ id,attack_cat
 20221,Normal
 20222,Normal
 20223,Fuzzers
-20224,Worms
+20224,Exploits
 20225,Generic
 20226,Generic
 20227,Normal
@@ -20314,7 +20314,7 @@ id,attack_cat
 20312,Generic
 20313,Normal
 20314,Generic
-20315,Worms
+20315,Fuzzers
 20316,Reconnaissance
 20317,Normal
 20318,Exploits
@@ -20357,7 +20357,7 @@ id,attack_cat
 20355,Generic
 20356,Normal
 20357,Normal
-20358,Fuzzers
+20358,Normal
 20359,Generic
 20360,Generic
 20361,Fuzzers
@@ -20535,7 +20535,7 @@ id,attack_cat
 20533,Normal
 20534,Reconnaissance
 20535,Fuzzers
-20536,Generic
+20536,Reconnaissance
 20537,Generic
 20538,Fuzzers
 20539,Fuzzers
