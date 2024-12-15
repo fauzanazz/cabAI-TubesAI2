@@ -16,7 +16,8 @@
 
 ## About The Project
 <p align = "center">
-  LinkInPurry is a web-based platform designed for agents of O.W.C.A. to enhance communication and collaboration. It provides secure features such as user connections, a news feed for updates, and real-time chat with end-to-end encryption. Developed with REST API and Single Page Application, this project ensures a responsive, efficient, and user-friendly experience for sharing career-related information and strengthening networks among agents worldwide. </p>
+  Mengimplementasikan Algoritma Pembelajaran Mesin, KNN, Naive Bayes, ID3 dengan menggunakan python.
+</p>
 
 
 ## Features  
