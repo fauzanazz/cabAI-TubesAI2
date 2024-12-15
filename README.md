@@ -49,7 +49,7 @@ Project is: _completed_
 
 
 ## Task
-13522131 Data Cleaning and Preprocessing
-13522141 KNN Algorithm
-13522143 Naive Bayes Algorithm
-13522153 ID3 Algorithm
+- 13522131 Data Cleaning and Preprocessing
+- 13522141 KNN Algorithm
+- 13522143 Naive Bayes Algorithm
+- 13522153 ID3 Algorithm
