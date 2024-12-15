@@ -1,9 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <img src="frontend/public/image.png" alt="landing page" />
-</div>
-
 <br />
 <div align="center">
 
